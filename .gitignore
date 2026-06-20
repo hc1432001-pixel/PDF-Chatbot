@@ -1,0 +1,4 @@
+.env
+ragenv/
+venv/
+__pycache__/
